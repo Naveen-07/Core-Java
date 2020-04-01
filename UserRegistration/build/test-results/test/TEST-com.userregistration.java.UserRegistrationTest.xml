@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.userregistration.java.UserRegistrationTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2020-03-27T06:37:37" hostname="DESKTOP-146HGNN" time="0.32">
+  <properties/>
+  <testcase name="givenNumber_WhenValid_ShouldReturnFalse" classname="com.userregistration.java.UserRegistrationTest" time="0.009"/>
+  <testcase name="checkForInvalidEmail0" classname="com.userregistration.java.UserRegistrationTest" time="0.007"/>
+  <testcase name="checkForInvalidEmail1" classname="com.userregistration.java.UserRegistrationTest" time="0.001"/>
+  <testcase name="checkForInvalidEmail2" classname="com.userregistration.java.UserRegistrationTest" time="0.002"/>
+  <testcase name="checkForInvalidEmail3" classname="com.userregistration.java.UserRegistrationTest" time="0.04"/>
+  <testcase name="checkForInvalidEmail4" classname="com.userregistration.java.UserRegistrationTest" time="0.009"/>
+  <testcase name="checkForInvalidEmail5" classname="com.userregistration.java.UserRegistrationTest" time="0.017"/>
+  <testcase name="checkForInvalidEmail6" classname="com.userregistration.java.UserRegistrationTest" time="0.003"/>
+  <testcase name="checkForInvalidEmail7" classname="com.userregistration.java.UserRegistrationTest" time="0.003"/>
+  <testcase name="checkForInvalidEmail8" classname="com.userregistration.java.UserRegistrationTest" time="0.003"/>
+  <testcase name="checkForInvalidEmail9" classname="com.userregistration.java.UserRegistrationTest" time="0.006"/>
+  <testcase name="givenPassword_WhenValid_ShouldReturnTrue" classname="com.userregistration.java.UserRegistrationTest" time="0.002"/>
+  <testcase name="givenEmail_WhenValid_ShouldReturnTrue" classname="com.userregistration.java.UserRegistrationTest" time="0.003"/>
+  <testcase name="givenFirstName_ShouldReturnTrue" classname="com.userregistration.java.UserRegistrationTest" time="0.001"/>
+  <testcase name="checkForInvalidEmail" classname="com.userregistration.java.UserRegistrationTest" time="0.003"/>
+  <testcase name="givenPassword_WhenValid_ShouldReturnFalse" classname="com.userregistration.java.UserRegistrationTest" time="0.005"/>
+  <testcase name="checkForValidEmail10" classname="com.userregistration.java.UserRegistrationTest" time="0.001"/>
+  <testcase name="checkForValidEmail11" classname="com.userregistration.java.UserRegistrationTest" time="0.001"/>
+  <testcase name="checkForValidEmail12" classname="com.userregistration.java.UserRegistrationTest" time="0.002"/>
+  <testcase name="checkForValidEmail13" classname="com.userregistration.java.UserRegistrationTest" time="0.001"/>
+  <testcase name="checkForValidEmail14" classname="com.userregistration.java.UserRegistrationTest" time="0.0"/>
+  <testcase name="givenFirstName_WhenWithSpChars_ShouldReturnFalse" classname="com.userregistration.java.UserRegistrationTest" time="0.003"/>
+  <testcase name="givenNumber_WhenValid_ShouldReturnTrue" classname="com.userregistration.java.UserRegistrationTest" time="0.001"/>
+  <testcase name="givenFirstName_WhenShort_ShouldReturnFalse" classname="com.userregistration.java.UserRegistrationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
